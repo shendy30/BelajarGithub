@@ -1,2 +1,2 @@
 # BelajarGithub
-Pertama belajar VCS di Github
+Pertama belajar VCS di Github hehe
