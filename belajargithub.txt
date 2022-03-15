@@ -3,3 +3,5 @@ Belajar Github
 Hobi saya
 -Belajar Coding
 -Main ML
+-Tidur
+-Workout
